@@ -17,20 +17,6 @@
 🔹 Strong foundation in **Data Analysis, Visualization, and Business Intelligence**.  
 🔹 Enthusiastic about leveraging data to drive strategic decision-making.  
 
-🛠️ **Skills & Technologies:**  
-✔️ **Excel** | **SQL** | **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-✔️ **Power BI** | **Tableau** | **Data Cleaning & Processing**  
-
----
-
-## 🚀 Featured Projects  
-
-### 📊 [HR Excel Dashboard](https://github.com/RohitKumar649/HR-Excel-Project)  
-✅ Built an **interactive HR dashboard** to analyze workforce trends, attrition rates, and department-wise insights.  
-
-### 📈 [Power BI - Super Store Sales](https://github.com/RohitKumar649/Power-BI-Project-Super-Store)  
-✅ Developed a **Power BI dashboard** for in-depth **sales analysis, profit distribution, and regional insights**.  
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -42,6 +28,16 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 🚀 Featured Projects  
+
+### 📊 [HR Excel Dashboard](https://github.com/RohitKumar649/HR-Excel-Project)  
+✅ Built an **interactive HR dashboard** to analyze workforce trends, attrition rates, and department-wise insights.  
+
+### 📈 [Power BI - Super Store Sales](https://github.com/RohitKumar649/Power-BI-Project-Super-Store)  
+✅ Developed a **Power BI dashboard** for in-depth **sales analysis, profit distribution, and regional insights**.  
 
 ---
 
@@ -64,6 +60,7 @@
 
 ---
 
-⭐ **Explore my projects and let's collaborate on exciting data-driven solutions!** 🚀 
+⭐ **Explore my projects and let's collaborate on exciting data-driven solutions!** 🚀  
+
 
 
