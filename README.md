@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Rohit Kumar!</h1>
+<h1 align="center">👋 Hi, I'm Rohit Kumar! </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-link-here" width="600px">
 </p>
 
 <p align="center">
-  🚀 Aspiring <strong>Data Analyst</strong> with a passion for transforming raw data into meaningful insights!
+  🚀 Aspiring <strong>Data Analyst</strong> | Passionate about transforming raw data into meaningful insights!
 </p>
 
 ---
@@ -17,17 +17,15 @@
 ✅ **Programming & Libraries** – Python (Pandas, NumPy, Matplotlib, Seaborn)  
 ✅ **Data Processing & Reporting** – Data Cleaning | Data Wrangling | Dashboard Development  
 
-I love **solving real-world business problems using data-driven insights** and creating **interactive dashboards** for effective decision-making.
+I enjoy uncovering insights from data and creating interactive dashboards to support business decision-making.
 
 ---
 
 ## 🚀 Projects  
 
-📊 **[Sales Performance Dashboard](https://github.com/RohitKumar649/Sales-Dashboard)** – Analyzed sales trends, profit margins, and key metrics using **Power BI**.  
+📊 **[HR Excel Project](https://github.com/RohitKumar649/HR-Excel-Project)** – Developed a **comprehensive HR analytics dashboard** in Excel, featuring attrition analysis, department-wise trends, and key workforce insights.  
 
-📉 **[HR Attrition Analysis](https://github.com/RohitKumar649/HR-Attrition-Analysis)** – Identified patterns in employee attrition using **Python & SQL**.  
-
-🛒 **[Customer Segmentation](https://github.com/RohitKumar649/Customer-Segmentation)** – Implemented **K-Means clustering** to analyze customer behavior for marketing strategies.  
+📉 **[Power BI Project - Super Store](https://github.com/RohitKumar649/Power-BI-Project-Super-Store)** – Created a **Power BI dashboard** analyzing sales performance, profit trends, and regional sales distribution for a retail business.  
 
 ---
 
@@ -53,8 +51,12 @@ I love **solving real-world business problems using data-driven insights** and c
 <a href="https://github.com/RohitKumar649" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>  
+<a href="https://www.instagram.com/saawariya_649/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+</a>  
 
 ---
 
 ⭐ **Explore my projects and let's collaborate on exciting data-driven solutions!** 🚀  
+
 
