@@ -47,7 +47,7 @@
 ✅ Developed a **Power BI dashboard** for in-depth **sales analysis, profit distribution, and regional insights**.  
 
 ### 🐍 [Python_Diwali_Sales_Analysis](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis)
-✅ Developed a **Power BI dashboard** for in-depth **sales analysis, profit distribution, and regional insights**.  
+✅ Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy Product from Food, Clothing and Electronics category  
 
 ---
 
