@@ -47,7 +47,7 @@
 ✅ Developed a **Power BI dashboard** for in-depth **sales analysis, profit distribution, and regional insights**.  
 
 ### 🐍 [Python_Diwali_Sales_Analysis](https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis)
-
+✅ Developed a **Power BI dashboard** for in-depth **sales analysis, profit distribution, and regional insights**.  
 ---
 
 ## 📫 Connect with Me  
